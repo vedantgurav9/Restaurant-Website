@@ -1,0 +1,39 @@
+.body {
+  background-color: #fae5d3;
+}
+.headingg-primary {
+  padding: 10px 16px;
+  font-size: 42px;
+  font-weight: 200;
+  color: #fff;
+  background-color: #e67e22;
+}
+
+.logo {
+  height: 24px;
+}
+
+.omnifood-logo {
+  padding: 16px;
+}
+.starters {
+  display: flex;
+}
+.starter-heading {
+  padding: 10px 16px;
+  font-size: 30px;
+
+  border-radius: 10px;
+}
+
+.starter-items {
+  padding: 0px 32px;
+  font-size: 20px;
+}
+
+.items {
+  border-radius: 10px;
+}
+.soups {
+  display: flex;
+}
